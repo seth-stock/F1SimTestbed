@@ -1,0 +1,15 @@
+# Based on the local Anaconda datascience312 workflow (Python 3.12).
+
+jupyter>=1.0
+numpy>=1.26
+pandas>=2.3
+matplotlib>=3.7
+scikit-learn>=1.7
+torch
+pytorch-lightning>=2.6
+fastf1>=3.0
+alive-progress>=3.1
+onnxruntime>=1.17
+fastapi>=0.123
+prometheus-client>=0.23
+uvicorn>=0.30
